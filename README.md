@@ -20,7 +20,7 @@ npm install
 ## Usage
 
 ```sh
-npm start
+Open with Live Server or Live Preview
 ```
 
 ## Author
